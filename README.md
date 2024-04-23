@@ -5,3 +5,5 @@
     - Kedua _url_ sama saja karena keduanya mengirim _request_ ke server rabbitMQ. Hanya saja, _publisher_ mengirim pesan ke _queue_ sementara _subscriber_ akan mendapatkan data dari _queue_.
 3. RabbitMQ Overview
 ![RabbitMQ-Overview](image.png)
+4. Proses ketika _publisher_ mengirim lima data ke _queue_
+![process-5-data-to-queue](image-1.png)
