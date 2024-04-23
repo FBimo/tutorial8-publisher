@@ -7,3 +7,6 @@
 ![RabbitMQ-Overview](image.png)
 4. Proses ketika _publisher_ mengirim lima data ke _queue_
 ![process-5-data-to-queue](image-1.png)
+5. _Chart Monitoring_
+Terjadi pelonjakan grafik karena _publisher_ telah melakukan _run_ beberapa kali.
+![chart-monitoring](image-3.png)
